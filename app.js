@@ -39,4 +39,3 @@ app.use(tasksRouter);
 app.listen(PORT ,() => {
    console.log("SERVER IS UP AND RUNNING ON PORT NO: " + PORT);
 });
->>>>>>> 7e9e6a2 (Initial commit for Task Manager API)
